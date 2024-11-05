@@ -1,10 +1,10 @@
-![Map-2](https://github.com/user-attachments/assets/bac49df3-7050-4cf8-b0a1-aaae90068ac9)# Real-Time Device Tracker
+# Real-Time Device Tracker
 
 A backend project for tracking devices in real-time using Express, EJS, Socket.IO, and OpenStreetMap.
 <br/>
-![Map-1](https://github.com/user-attachments/assets/7a9b06b9-f401-4b19-a4ad-7177065eda01)
-<br/>
 ![Map-2](https://github.com/user-attachments/assets/f5220732-070a-4bb6-ae28-e5e2df263438)
+<br/>
+![Map-1](https://github.com/user-attachments/assets/7a9b06b9-f401-4b19-a4ad-7177065eda01)
 
 ## Table of Contents
 

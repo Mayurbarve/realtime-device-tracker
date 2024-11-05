@@ -46,6 +46,15 @@ A backend project for tracking devices in real-time using Express, EJS, Socket.I
    ```bash
    npm install
    ```
+    ```bash
+   npm i express
+   ```
+     ```bash
+   npm i ejs
+   ```
+      ```bash
+   npm i socket.io
+   ```
 
 3. **Environment Variables**:
    - Create a `.env` file in the root directory and add any required environment variables, such as API keys or port numbers.
